@@ -1,4 +1,6 @@
 /*
+Note: Sam LaFell contributed significantly to this code
+
 Assumptions
 - The final pivot table doesn't need to be tiered; it just needs to contain both
 monthly and yearly summary information for the top highest recurring revenues
