@@ -1,4 +1,4 @@
-## Question
+## Questions
 Yearly Plans are paid upfront upon purchase and Monthly plans are billed each month.  In this A/B test experiment let’s assume that The **control** variant shows product A by default while **monthly_default** shows product C by default to new onboarding customers.
 
 After conducting an A/B Test on the website’s signupflow you are given the following results.
@@ -25,7 +25,7 @@ Based on these results and to derive valuable insights for presentation to the l
 
 *Clearly outline any assumptions you are making throughout this process, ensuring transparency in your analytical approach.*
 
-## Answer
+## Answers
 **Assumptions**
 
 - Product C generates an annual revenue of approximately $5,400, making it the most financially rewarding among the three plans.
